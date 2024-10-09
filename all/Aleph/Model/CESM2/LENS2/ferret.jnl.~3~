@@ -1,0 +1,28 @@
+ ! NOAA/PMEL TMAP
+ ! FERRET v7.43 (optimized)
+ ! Linux 3.10.0-862.el7.x86_64 64-bit - 11/30/18
+ !  2-Nov-23 04:28     
+
+use
+use "
+/mnt/lustre/proj/earth.system.predictability/ASSM_EXP/archive_yearly_transfer/ocn/mul_VVEL_NO3/ens_all
+use /mnt/lustre/proj/earth.system.predictability/ASSM_EXP/archive_yearly_transfer/ocn/mul_VVEL_NO3/ens_all
+use
+/mnt/lustre/proj/earth.system.predictability/ASSM_EXP/archive_yearly_transfer/ocn/mul_VVEL_NO3/ens_all
+use /mnt/lustre/proj/earth.system.predictability/ASSM_EXP/archive_yearly_transfer/ocn/mul_VVEL_NO3/ens_all/mul_VVEL_NO3_ensmean_1960.nc
+show data
+shade mul_vvel_no3[k=1]
+shade/lev=(-100,100,10) mul_vvel_no3[k=1]
+shade/lev=(-100,100,10)/palette=blue_red_centered mul_vvel_no3[k=1]
+shade/lev=(-10,10,1)/palette=blue_red_centered mul_vvel_no3[k=1]
+shade/lev=(-10,10,1)/palette=blue_red_centered mul_vvel_no3[k=15]
+shade/lev=(-20,20,2)/palette=blue_red_centered mul_vvel_no3[k=15]
+shade/lev=(-20,20,2)/palette=blue_red_centered mul_vvel_no3[k=1]
+shade/lev=(-20,20,2)/palette=blue_red_centered mul_vvel_no3[k=5]
+shade/lev=(-20,20,2)/palette=blue_red_centered mul_vvel_no3[k=10]
+shade/lev=(-20,20,2)/palette=blue_red_centered mul_vvel_no3[k=8]
+shade/lev=(-20,20,2)/palette=blue_red_centered mul_vvel_no3[k=5]
+shade/lev=(-20,20,2)/palette=blue_red_centered mul_vvel_no3[k=1]
+shade/lev=(-20,20,2)/palette=blue_red_centered mul_vvel_no3[k=5]
+shade/lev=(-20,20,2)/palette=blue_red_centered mul_vvel_no3[k=3]
+exit

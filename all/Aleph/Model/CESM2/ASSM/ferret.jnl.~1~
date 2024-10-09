@@ -1,0 +1,8 @@
+ ! NOAA/PMEL TMAP
+ ! FERRET v7.43 (optimized)
+ ! Linux 3.10.0-862.el7.x86_64 64-bit - 11/30/18
+ ! 30-Jun-23 15:09     
+
+go ~/tmp_script/make_TEMPCLINE.jnl
+go "~/tmp_script/make_TEMPCLINE.jnl"
+exit

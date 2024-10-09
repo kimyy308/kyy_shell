@@ -1,0 +1,17 @@
+ ! NOAA/PMEL TMAP
+ ! FERRET v7.43 (optimized)
+ ! Linux 3.10.0-862.el7.x86_64 64-bit - 11/30/18
+ ! 14-Apr-23 17:53     
+
+use "/mnt/lustre/share/CESM/cesm_input/atm/cam/chem/emis/CMIP6_emissions_1750_2015/emissions-cmip6_so4_a2_contvolcano_vertical_850-5000_0.9x1.25_c20170724.nc"
+show data
+shade contvolcano[k=20,l=1]
+shade contvolcano[k=20,l=2]
+shade contvolcano[k=20,l=3]
+shade contvolcano[k=20,l=4]
+shade contvolcano[k=20,l=5]
+shade contvolcano[k=20,l=6]
+shade contvolcano[k=20,l=70]
+shade contvolcano[k=20,l=84]
+shade contvolcano[k=20,l=84]
+exit

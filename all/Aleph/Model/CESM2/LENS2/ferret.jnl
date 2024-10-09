@@ -1,0 +1,9 @@
+ ! NOAA/PMEL TMAP
+ ! FERRET v7.43 (optimized)
+ ! Linux 3.10.0-862.el7.x86_64 64-bit - 11/30/18
+ !  3-Nov-23 14:53     
+
+use /proj/earth.system.predictability/LENS2/archive_yearly_transfer/ocn/mul_VVEL_NO3/ens_smbb/mul_VVEL_NO3_y_ensmean_1960_ly_2_4.nc
+show data
+shade mul_vvel_no3[k=1]
+exit
