@@ -10,6 +10,7 @@ branch='main' # Branch name you want to push
 #file2upload=$1 # File or direcotry you want to push
 file2upload=all # File or direcotry you want to push
 
+
 git add --ignore-removal ${file2upload} --verbose
 time=`date "+%Y%m%d %H:%M:%S"`
 git commit -m "${time}"
