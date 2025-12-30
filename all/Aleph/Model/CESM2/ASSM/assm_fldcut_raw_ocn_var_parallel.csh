@@ -14,7 +14,10 @@ set xe = 205
 set ys = 221
 set yn = 325
 
-set vars = ( TEMP SSH SALT DIC DIC_ALT_CO2 FG_CO2 )
+#set vars = ( TEMP SSH SALT DIC DIC_ALT_CO2 FG_CO2 )
+#set vars = ( TEMP SSH SALT DIC DIC_ALT_CO2 FG_CO2 UVEL VVEL WVEL )
+#set vars = ( UVEL VVEL WVEL )
+set vars = ( TAUX TAUY )
 
 foreach var ( ${vars} )
 mkdir ~/tmp_script

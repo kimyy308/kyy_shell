@@ -13,8 +13,13 @@ set xe = 205
 set ys = 221
 set yn = 325
 
-set vars = ( TEMP SSH SALT DIC DIC_ALT_CO2 FG_CO2 )
+#set vars = ( TEMP SSH SALT DIC DIC_ALT_CO2 FG_CO2 )
+#set vars = ( TEMP SSH SALT DIC DIC_ALT_CO2 FG_CO2 FG_CO2 UVEL VVEL WVEL )
+#set vars = ( TEMP DIC DIC_ALT_CO2 )
+#set vars = ( SALT FG_CO2 UVEL VVEL WVEL )
 #set vars = ( SSH )
+#set vars = ( TAUX TAUY )
+set vars = ( FG_CO2 )
 
 foreach var ( ${vars} )
 mkdir ~/tmp_script
@@ -28,7 +33,8 @@ cat > $tmp_scr << EOF
 set RESOLN = f09_g17
 set ARC_ROOT = /mnt/lustre/proj/jedwards/archive
 
-set period_set_hist = ( 196001-196912 197001-197912 198001-198912 199001-199912 200001-200912 201001-201412 )
+#set period_set_hist = ( 195001-195912 )
+set period_set_hist = ( 195001-195912 196001-196912 197001-197912 198001-198912 199001-199912 200001-200912 201001-201412 )
 set period_set_ssp = ( 201501-202412 202501-203412 )
 
 foreach period ( \${period_set_hist} )
@@ -42,6 +48,7 @@ foreach period ( \${period_set_hist} )
     set fn = \`ls \${ARC_ROOT}/\${smbbnum}/ocn/proc/tseries/month_1/*.pop.h.${var}.\${period}.nc | rev | cut -d '/' -f 1 | rev\`
     set outputname = \${SAVE_ROOT_smbb}/${REGION}_\${fn}
 #    cdo -O -w select,name=${var} \${inputname} /proj/kimyy/tmp/test_lens2_fld_${var}.nc
+    rm -f \$outputname
     cdo -z zip_5 -O -w -selindexbox,${xw},${xe},${ys},${yn} \${inputname} \${outputname}
   end
 end
@@ -55,12 +62,13 @@ foreach period ( \${period_set_ssp} )
     set inputname = \`ls \${ARC_ROOT}/\${smbbnum}/ocn/proc/tseries/month_1/*.pop.h.${var}.\${period}.nc\`
     set fn = \`ls \${ARC_ROOT}/\${smbbnum}/ocn/proc/tseries/month_1/*.pop.h.${var}.\${period}.nc | rev | cut -d '/' -f 1 | rev\`
     set outputname = \${SAVE_ROOT_smbb}/${REGION}_\${fn}
-    cdo -O -w select,name=${var} \${inputname} /proj/kimyy/tmp/test_lens2_fld_${var}.nc
-    cdo -z zip_5 -O -w -selindexbox,${xw},${xe},${ys},${yn} /proj/kimyy/tmp/test_lens2_fld_${var}.nc \${outputname}
+    rm -f \$outputname
+#    cdo -O -w select,name=${var} \${inputname} /proj/kimyy/tmp/test_lens2_fld_${var}.nc
+#    cdo -z zip_5 -O -w -selindexbox,${xw},${xe},${ys},${yn} /proj/kimyy/tmp/test_lens2_fld_${var}.nc \${outputname}
+    cdo -z zip_5 -O -w -selindexbox,${xw},${xe},${ys},${yn} \${inputname} \${outputname}
   end
 end
 
-end
 
 EOF
 

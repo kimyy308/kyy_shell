@@ -1,0 +1,622 @@
+/mnt/lustre/proj/earth.system.predictability/PERFECT_TEST_timeseries/ASSM_EXP/archive/b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1/ocn/proc/tseries/month_1/:
+total 92G
+588M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.ALK.201501-201912.nc
+123M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.ALK.202001-202012.nc
+752M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.AOU.201501-201912.nc
+156M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.AOU.202001-202012.nc
+7.7M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.ATM_CO2.201501-201912.nc
+6.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.ATM_CO2.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.BSF.201501-201912.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.BSF.202001-202012.nc
+242M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.bSi_form.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.bSi_form.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.bsiToSed.201501-201912.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.bsiToSed.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.CaCO3_FLUX_100m.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.CaCO3_FLUX_100m.202001-202012.nc
+704M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.CO3.201501-201912.nc
+146M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.CO3.202001-202012.nc
+840M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DIA_IMPVF_DIC.201501-201912.nc
+173M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DIA_IMPVF_DIC.202001-202012.nc
+839M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DIA_IMPVF_DIC_ALT_CO2.201501-201912.nc
+173M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DIA_IMPVF_DIC_ALT_CO2.202001-202012.nc
+242M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_agg.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_agg.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_agg_zint_100m.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_agg_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_agg_zint.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_agg_zint.202001-202012.nc
+246M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diatC.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diatC.202001-202012.nc
+246M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diatChl.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diatChl.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diatC_zint_100m_2.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diatC_zint_100m_2.202001-202012.nc
+247M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diatFe.201501-201912.nc
+ 55M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diatFe.202001-202012.nc
+ 21M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_Fe_lim_Cweight_avg_100m.201501-201912.nc
+8.9M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_Fe_lim_Cweight_avg_100m.202001-202012.nc
+ 21M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_Fe_lim_surf.201501-201912.nc
+9.0M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_Fe_lim_surf.202001-202012.nc
+ 21M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_light_lim_Cweight_avg_100m.201501-201912.nc
+9.1M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_light_lim_Cweight_avg_100m.202001-202012.nc
+ 21M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_light_lim_surf.201501-201912.nc
+9.0M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_light_lim_surf.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_loss_doc_zint_100m.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_loss_doc_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_loss_doc_zint.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_loss_doc_zint.202001-202012.nc
+7.0M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_loss_poc_zint_100m.201501-201912.nc
+6.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_loss_poc_zint_100m.202001-202012.nc
+7.0M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_loss_poc_zint.201501-201912.nc
+6.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_loss_poc_zint.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_loss_zint_100m.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_loss_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_loss_zint.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_loss_zint.202001-202012.nc
+ 20M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_N_lim_Cweight_avg_100m.201501-201912.nc
+8.8M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_N_lim_Cweight_avg_100m.202001-202012.nc
+ 21M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_N_lim_surf.201501-201912.nc
+9.0M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_N_lim_surf.202001-202012.nc
+246M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diatP.201501-201912.nc
+ 55M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diatP.202001-202012.nc
+ 19M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_P_lim_Cweight_avg_100m.201501-201912.nc
+8.7M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_P_lim_Cweight_avg_100m.202001-202012.nc
+ 19M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_P_lim_surf.201501-201912.nc
+8.7M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_P_lim_surf.202001-202012.nc
+134M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_Qp.201501-201912.nc
+ 32M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_Qp.202001-202012.nc
+247M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diatSi.201501-201912.nc
+ 55M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diatSi.202001-202012.nc
+ 20M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_SiO3_lim_Cweight_avg_100m.201501-201912.nc
+8.8M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_SiO3_lim_Cweight_avg_100m.202001-202012.nc
+ 20M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_SiO3_lim_surf.201501-201912.nc
+8.8M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diat_SiO3_lim_surf.202001-202012.nc
+161M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_agg.201501-201912.nc
+ 37M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_agg.202001-202012.nc
+ 17M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_agg_zint_100m.201501-201912.nc
+8.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_agg_zint_100m.202001-202012.nc
+ 18M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_agg_zint.201501-201912.nc
+8.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_agg_zint.202001-202012.nc
+231M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diazC.201501-201912.nc
+ 52M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diazC.202001-202012.nc
+231M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diazChl.201501-201912.nc
+ 52M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diazChl.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diazC_zint_100m_2.201501-201912.nc
+9.2M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diazC_zint_100m_2.202001-202012.nc
+235M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diazFe.201501-201912.nc
+ 52M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diazFe.202001-202012.nc
+ 20M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_Fe_lim_Cweight_avg_100m.201501-201912.nc
+8.9M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_Fe_lim_Cweight_avg_100m.202001-202012.nc
+ 20M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_Fe_lim_surf.201501-201912.nc
+8.9M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_Fe_lim_surf.202001-202012.nc
+ 17M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_light_lim_Cweight_avg_100m.201501-201912.nc
+8.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_light_lim_Cweight_avg_100m.202001-202012.nc
+ 17M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_light_lim_surf.201501-201912.nc
+8.1M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_light_lim_surf.202001-202012.nc
+ 17M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_loss_doc_zint_100m.201501-201912.nc
+8.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_loss_doc_zint_100m.202001-202012.nc
+ 18M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_loss_doc_zint.201501-201912.nc
+8.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_loss_doc_zint.202001-202012.nc
+7.0M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_loss_poc_zint_100m.201501-201912.nc
+6.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_loss_poc_zint_100m.202001-202012.nc
+7.0M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_loss_poc_zint.201501-201912.nc
+6.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_loss_poc_zint.202001-202012.nc
+ 17M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_loss_zint_100m.201501-201912.nc
+8.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_loss_zint_100m.202001-202012.nc
+ 18M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_loss_zint.201501-201912.nc
+8.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_loss_zint.202001-202012.nc
+155M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_Nfix.201501-201912.nc
+ 36M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_Nfix.202001-202012.nc
+231M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diazP.201501-201912.nc
+ 51M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diazP.202001-202012.nc
+ 18M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_P_lim_Cweight_avg_100m.201501-201912.nc
+8.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_P_lim_Cweight_avg_100m.202001-202012.nc
+ 19M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_P_lim_surf.201501-201912.nc
+8.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_P_lim_surf.202001-202012.nc
+121M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_Qp.201501-201912.nc
+ 29M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.diaz_Qp.202001-202012.nc
+608M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DIC.201501-201912.nc
+127M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DIC.202001-202012.nc
+615M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DIC_ALT_CO2.201501-201912.nc
+128M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DIC_ALT_CO2.202001-202012.nc
+8.2M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DIC_ALT_CO2_RIV_FLUX.201501-201912.nc
+6.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DIC_ALT_CO2_RIV_FLUX.202001-202012.nc
+785M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOC.201501-201912.nc
+162M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOC.202001-202012.nc
+786M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DON.201501-201912.nc
+163M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DON.202001-202012.nc
+413M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DON_prod.201501-201912.nc
+ 88M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DON_prod.202001-202012.nc
+605M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DONr.201501-201912.nc
+127M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DONr.202001-202012.nc
+8.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DON_RIV_FLUX.201501-201912.nc
+6.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DON_RIV_FLUX.202001-202012.nc
+8.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DONr_RIV_FLUX.201501-201912.nc
+6.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DONr_RIV_FLUX.202001-202012.nc
+789M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOP.201501-201912.nc
+163M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOP.202001-202012.nc
+243M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOP_diat_uptake.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOP_diat_uptake.202001-202012.nc
+156M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOP_diaz_uptake.201501-201912.nc
+ 36M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOP_diaz_uptake.202001-202012.nc
+412M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOP_prod.201501-201912.nc
+ 88M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOP_prod.202001-202012.nc
+629M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOPr.201501-201912.nc
+131M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOPr.202001-202012.nc
+634M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOP_remin.201501-201912.nc
+132M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOP_remin.202001-202012.nc
+8.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOP_RIV_FLUX.201501-201912.nc
+6.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOP_RIV_FLUX.202001-202012.nc
+627M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOPr_remin.201501-201912.nc
+131M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOPr_remin.202001-202012.nc
+8.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOPr_RIV_FLUX.201501-201912.nc
+6.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOPr_RIV_FLUX.202001-202012.nc
+244M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOP_sp_uptake.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DOP_sp_uptake.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DpCO2.201501-201912.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DpCO2.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DpCO2_ALT_CO2.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.DpCO2_ALT_CO2.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.dustToSed.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.dustToSed.202001-202012.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.ECOSYS_IFRAC.201501-201912.nc
+6.8M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.ECOSYS_IFRAC.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.EVAP_F.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.EVAP_F.202001-202012.nc
+759M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Fe.201501-201912.nc
+157M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Fe.202001-202012.nc
+806M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Fefree.201501-201912.nc
+166M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Fefree.202001-202012.nc
+8.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Fe_RIV_FLUX.201501-201912.nc
+6.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Fe_RIV_FLUX.202001-202012.nc
+828M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Fe_scavenge.201501-201912.nc
+171M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Fe_scavenge.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.FG_ALT_CO2.201501-201912.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.FG_ALT_CO2.202001-202012.nc
+ 24M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.FG_CO2.201501-201912.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.FG_CO2.202001-202012.nc
+7.0M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.FW.201501-201912.nc
+6.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.FW.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diat_doc_zint_100m.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diat_doc_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diat_doc_zint.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diat_doc_zint.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diat_poc_zint_100m.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diat_poc_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diat_poc_zint.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diat_poc_zint.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diat_zint_100m.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diat_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diat_zint.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diat_zint.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diat_zoo_zint_100m.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diat_zoo_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diat_zoo_zint.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diat_zoo_zint.202001-202012.nc
+ 17M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diaz_doc_zint_100m.201501-201912.nc
+8.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diaz_doc_zint_100m.202001-202012.nc
+ 18M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diaz_doc_zint.201501-201912.nc
+8.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diaz_doc_zint.202001-202012.nc
+ 17M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diaz_poc_zint_100m.201501-201912.nc
+8.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diaz_poc_zint_100m.202001-202012.nc
+ 18M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diaz_poc_zint.201501-201912.nc
+8.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diaz_poc_zint.202001-202012.nc
+ 17M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diaz_zint_100m.201501-201912.nc
+8.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diaz_zint_100m.202001-202012.nc
+ 18M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diaz_zint.201501-201912.nc
+8.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diaz_zint.202001-202012.nc
+ 17M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diaz_zoo_zint_100m.201501-201912.nc
+8.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diaz_zoo_zint_100m.202001-202012.nc
+ 18M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diaz_zoo_zint.201501-201912.nc
+8.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_diaz_zoo_zint.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_sp_doc_zint_100m.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_sp_doc_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_sp_doc_zint.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_sp_doc_zint.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_sp_poc_zint_100m.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_sp_poc_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_sp_poc_zint.201501-201912.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_sp_poc_zint.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_sp_zint_100m.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_sp_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_sp_zint.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_sp_zint.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_sp_zoo_zint_100m.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_sp_zoo_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_sp_zoo_zint.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.graze_sp_zoo_zint.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HBLT.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HBLT.202001-202012.nc
+884M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HDIFB_DIC.201501-201912.nc
+182M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HDIFB_DIC.202001-202012.nc
+885M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HDIFB_DIC_ALT_CO2.201501-201912.nc
+182M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HDIFB_DIC_ALT_CO2.202001-202012.nc
+885M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HDIFB_PO4.201501-201912.nc
+182M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HDIFB_PO4.202001-202012.nc
+884M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HDIFE_DIC_ALT_CO2.201501-201912.nc
+182M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HDIFE_DIC_ALT_CO2.202001-202012.nc
+882M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HDIFE_PO4.201501-201912.nc
+182M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HDIFE_PO4.202001-202012.nc
+871M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HDIFN_DIC_ALT_CO2.201501-201912.nc
+180M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HDIFN_DIC_ALT_CO2.202001-202012.nc
+ 25M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HDIFT.201501-201912.nc
+9.8M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HDIFT.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HMXL.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HMXL.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HMXL_DR.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HMXL_DR.202001-202012.nc
+139M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HOR_DIFF.201501-201912.nc
+ 33M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.HOR_DIFF.202001-202012.nc
+777M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.IAGE.201501-201912.nc
+161M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.IAGE.202001-202012.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.IFRAC.201501-201912.nc
+6.8M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.IFRAC.202001-202012.nc
+716M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.insitu_temp.201501-201912.nc
+149M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.insitu_temp.202001-202012.nc
+ 12M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.IOFF_F.201501-201912.nc
+7.2M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.IOFF_F.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.IRON_FLUX.201501-201912.nc
+9.2M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.IRON_FLUX.202001-202012.nc
+821M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.J_DIC_ALT_CO2.201501-201912.nc
+170M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.J_DIC_ALT_CO2.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_ALK.201501-201912.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_ALK.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_DIC.201501-201912.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_DIC.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_DIC_ALT_CO2.201501-201912.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_DIC_ALT_CO2.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_DOC.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_DOC.202001-202012.nc
+ 24M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_Fe.201501-201912.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_Fe.202001-202012.nc
+ 24M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_NH4.201501-201912.nc
+9.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_NH4.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_NO3.201501-201912.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_NO3.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_O2.201501-201912.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_O2.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_PO4.201501-201912.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_PO4.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_SiO3.201501-201912.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Jint_100m_SiO3.202001-202012.nc
+823M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.J_PO4.201501-201912.nc
+170M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.J_PO4.202001-202012.nc
+425M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.KAPPA_ISOP.201501-201912.nc
+ 90M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.KAPPA_ISOP.202001-202012.nc
+456M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.KAPPA_THIC.201501-201912.nc
+ 96M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.KAPPA_THIC.202001-202012.nc
+196M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.KPP_SRC_DIC.201501-201912.nc
+ 45M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.KPP_SRC_DIC.202001-202012.nc
+196M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.KPP_SRC_DIC_ALT_CO2.201501-201912.nc
+ 45M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.KPP_SRC_DIC_ALT_CO2.202001-202012.nc
+196M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.KPP_SRC_PO4.201501-201912.nc
+ 45M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.KPP_SRC_PO4.202001-202012.nc
+623M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.KVMIX.201501-201912.nc
+130M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.KVMIX.202001-202012.nc
+638M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.KVMIX_M.201501-201912.nc
+133M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.KVMIX_M.202001-202012.nc
+680M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Lig.201501-201912.nc
+142M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Lig.202001-202012.nc
+821M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Lig_deg.201501-201912.nc
+170M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Lig_deg.202001-202012.nc
+820M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Lig_loss.201501-201912.nc
+169M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Lig_loss.202001-202012.nc
+ 73M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Lig_photochem.201501-201912.nc
+ 20M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Lig_photochem.202001-202012.nc
+820M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Lig_prod.201501-201912.nc
+169M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Lig_prod.202001-202012.nc
+827M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Lig_scavenge.201501-201912.nc
+171M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Lig_scavenge.202001-202012.nc
+ 19M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.LWDN_F.201501-201912.nc
+8.7M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.LWDN_F.202001-202012.nc
+ 20M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.LWUP_F.201501-201912.nc
+8.8M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.LWUP_F.202001-202012.nc
+ 24M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.MOC.201501-201912.nc
+9.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.MOC.202001-202012.nc
+807M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.NH4.201501-201912.nc
+167M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.NH4.202001-202012.nc
+6.7M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.N_HEAT.201501-201912.nc
+6.2M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.N_HEAT.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.NHx_SURFACE_EMIS.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.NHx_SURFACE_EMIS.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.NHy_FLUX.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.NHy_FLUX.202001-202012.nc
+812M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.NITRIF.201501-201912.nc
+168M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.NITRIF.202001-202012.nc
+726M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.NO3.201501-201912.nc
+151M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.NO3.202001-202012.nc
+ 60M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.NO3_RESTORE_TEND.201501-201912.nc
+ 17M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.NO3_RESTORE_TEND.202001-202012.nc
+8.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.NO3_RIV_FLUX.201501-201912.nc
+6.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.NO3_RIV_FLUX.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.NOx_FLUX.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.NOx_FLUX.202001-202012.nc
+715M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.O2.201501-201912.nc
+149M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.O2.202001-202012.nc
+ 21M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.O2_ZMIN.201501-201912.nc
+9.1M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.O2_ZMIN.202001-202012.nc
+ 17M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.O2_ZMIN_DEPTH.201501-201912.nc
+8.2M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.O2_ZMIN_DEPTH.202001-202012.nc
+237M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PAR_avg.201501-201912.nc
+ 53M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PAR_avg.202001-202012.nc
+ 20M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.pCO2SURF.201501-201912.nc
+8.9M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.pCO2SURF.202001-202012.nc
+379M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PD.201501-201912.nc
+ 81M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PD.202001-202012.nc
+ 18M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PH.201501-201912.nc
+8.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PH.202001-202012.nc
+593M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.pH_3D.201501-201912.nc
+124M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.pH_3D.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_diat_zint_100m.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_diat_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_diat_zint.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_diat_zint.202001-202012.nc
+ 17M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_diaz_zint_100m.201501-201912.nc
+8.2M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_diaz_zint_100m.202001-202012.nc
+ 17M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_diaz_zint.201501-201912.nc
+8.2M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_diaz_zint.202001-202012.nc
+243M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_NO3_TOT.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_NO3_TOT.202001-202012.nc
+7.0M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_NO3_TOT_zint_100m.201501-201912.nc
+6.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_NO3_TOT_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_NO3_TOT_zint.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_NO3_TOT_zint.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_sp_zint_100m.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_sp_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_sp_zint.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_sp_zint.202001-202012.nc
+241M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_TOT.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_TOT.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_TOT_zint_100m.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_TOT_zint_100m.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_TOT_zint.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoC_TOT_zint.202001-202012.nc
+243M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoFe_diat.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoFe_diat.202001-202012.nc
+156M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoFe_diaz.201501-201912.nc
+ 36M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoFe_diaz.202001-202012.nc
+243M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoFe_sp.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoFe_sp.202001-202012.nc
+243M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoNH4_diat.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoNH4_diat.202001-202012.nc
+156M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoNH4_diaz.201501-201912.nc
+ 36M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoNH4_diaz.202001-202012.nc
+243M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoNH4_sp.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoNH4_sp.202001-202012.nc
+243M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoNO3_diat.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoNO3_diat.202001-202012.nc
+157M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoNO3_diaz.201501-201912.nc
+ 37M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoNO3_diaz.202001-202012.nc
+244M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoNO3_sp.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.photoNO3_sp.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.P_iron_FLUX_100m.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.P_iron_FLUX_100m.202001-202012.nc
+809M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.P_iron_FLUX_IN.201501-201912.nc
+167M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.P_iron_FLUX_IN.202001-202012.nc
+827M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.P_iron_PROD.201501-201912.nc
+171M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.P_iron_PROD.202001-202012.nc
+833M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.P_iron_REMIN.201501-201912.nc
+172M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.P_iron_REMIN.202001-202012.nc
+714M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PO4.201501-201912.nc
+148M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PO4.202001-202012.nc
+242M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PO4_diat_uptake.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PO4_diat_uptake.202001-202012.nc
+153M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PO4_diaz_uptake.201501-201912.nc
+ 36M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PO4_diaz_uptake.202001-202012.nc
+ 60M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PO4_RESTORE_TEND.201501-201912.nc
+ 17M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PO4_RESTORE_TEND.202001-202012.nc
+8.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PO4_RIV_FLUX.201501-201912.nc
+6.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PO4_RIV_FLUX.202001-202012.nc
+242M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PO4_sp_uptake.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PO4_sp_uptake.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.POC_FLUX_100m.201501-201912.nc
+9.2M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.POC_FLUX_100m.202001-202012.nc
+803M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.POC_FLUX_IN.201501-201912.nc
+166M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.POC_FLUX_IN.202001-202012.nc
+414M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.POC_PROD.201501-201912.nc
+ 88M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.POC_PROD.202001-202012.nc
+ 24M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.ponToSed.201501-201912.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.ponToSed.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.POP_FLUX_100m.201501-201912.nc
+9.2M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.POP_FLUX_100m.202001-202012.nc
+803M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.POP_FLUX_IN.201501-201912.nc
+166M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.POP_FLUX_IN.202001-202012.nc
+414M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.POP_PROD.201501-201912.nc
+ 88M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.POP_PROD.202001-202012.nc
+821M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.POP_REMIN_DOPr.201501-201912.nc
+170M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.POP_REMIN_DOPr.202001-202012.nc
+821M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.POP_REMIN_PO4.201501-201912.nc
+170M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.POP_REMIN_PO4.202001-202012.nc
+ 24M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.popToSed.201501-201912.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.popToSed.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PREC_F.201501-201912.nc
+9.2M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PREC_F.202001-202012.nc
+816M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PV.201501-201912.nc
+169M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PV.202001-202012.nc
+912M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PVWM.201501-201912.nc
+188M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PVWM.202001-202012.nc
+899M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PVWP.201501-201912.nc
+185M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.PVWP.202001-202012.nc
+807M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Q.201501-201912.nc
+167M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.Q.202001-202012.nc
+8.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.QFLUX.201501-201912.nc
+6.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.QFLUX.202001-202012.nc
+696M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.QSW_3D.201501-201912.nc
+144M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.QSW_3D.202001-202012.nc
+9.0M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.ROFF_F.201501-201912.nc
+6.7M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.ROFF_F.202001-202012.nc
+555M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SALT.201501-201912.nc
+116M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SALT.202001-202012.nc
+9.8M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SEAICE_DUST_FLUX_CPL.201501-201912.nc
+6.9M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SEAICE_DUST_FLUX_CPL.202001-202012.nc
+ 24M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SedDenitrif.201501-201912.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SedDenitrif.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SHF.201501-201912.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SHF.202001-202012.nc
+ 21M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SHF_QSW.201501-201912.nc
+9.1M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SHF_QSW.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SiO2_FLUX_100m.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SiO2_FLUX_100m.202001-202012.nc
+812M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SiO2_FLUX_IN.201501-201912.nc
+168M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SiO2_FLUX_IN.202001-202012.nc
+375M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SiO2_PROD.201501-201912.nc
+ 80M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SiO2_PROD.202001-202012.nc
+749M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SiO3.201501-201912.nc
+155M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SiO3.202001-202012.nc
+ 60M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SiO3_RESTORE_TEND.201501-201912.nc
+ 17M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SiO3_RESTORE_TEND.202001-202012.nc
+8.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SiO3_RIV_FLUX.201501-201912.nc
+6.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SiO3_RIV_FLUX.202001-202012.nc
+242M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_agg.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_agg.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_agg_zint_100m.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_agg_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_agg_zint.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_agg_zint.202001-202012.nc
+246M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.spC.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.spC.202001-202012.nc
+245M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.spChl.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.spChl.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.spC_zint_100m_2.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.spC_zint_100m_2.202001-202012.nc
+246M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.spFe.201501-201912.nc
+ 55M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.spFe.202001-202012.nc
+ 20M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_Fe_lim_Cweight_avg_100m.201501-201912.nc
+8.8M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_Fe_lim_Cweight_avg_100m.202001-202012.nc
+ 20M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_Fe_lim_surf.201501-201912.nc
+8.8M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_Fe_lim_surf.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_light_lim_Cweight_avg_100m.201501-201912.nc
+9.1M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_light_lim_Cweight_avg_100m.202001-202012.nc
+ 21M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_light_lim_surf.201501-201912.nc
+9.0M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_light_lim_surf.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_loss_doc_zint_100m.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_loss_doc_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_loss_doc_zint.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_loss_doc_zint.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_loss_poc_zint_100m.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_loss_poc_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_loss_poc_zint.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_loss_poc_zint.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_loss_zint_100m.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_loss_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_loss_zint.201501-201912.nc
+9.4M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_loss_zint.202001-202012.nc
+ 20M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_N_lim_Cweight_avg_100m.201501-201912.nc
+8.7M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_N_lim_Cweight_avg_100m.202001-202012.nc
+ 20M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_N_lim_surf.201501-201912.nc
+8.8M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_N_lim_surf.202001-202012.nc
+246M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.spP.201501-201912.nc
+ 54M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.spP.202001-202012.nc
+ 18M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_P_lim_Cweight_avg_100m.201501-201912.nc
+8.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_P_lim_Cweight_avg_100m.202001-202012.nc
+ 18M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_P_lim_surf.201501-201912.nc
+8.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_P_lim_surf.202001-202012.nc
+135M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_Qp.201501-201912.nc
+ 32M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.sp_Qp.202001-202012.nc
+750M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SRES.201501-201912.nc
+155M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SRES.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SSH.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SSH.202001-202012.nc
+ 19M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SSS2.201501-201912.nc
+8.7M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SSS2.202001-202012.nc
+ 24M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SU.201501-201912.nc
+9.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SU.202001-202012.nc
+ 25M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SV.201501-201912.nc
+9.8M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.SV.202001-202012.nc
+ 24M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.TAUX.201501-201912.nc
+9.5M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.TAUX.202001-202012.nc
+ 24M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.TAUY.201501-201912.nc
+9.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.TAUY.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.TBLT.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.TBLT.202001-202012.nc
+717M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.TEMP.201501-201912.nc
+149M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.TEMP.202001-202012.nc
+ 24M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.tend_zint_100m_ALK.201501-201912.nc
+9.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.tend_zint_100m_ALK.202001-202012.nc
+ 24M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.tend_zint_100m_DIC.201501-201912.nc
+9.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.tend_zint_100m_DIC.202001-202012.nc
+ 24M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.tend_zint_100m_DIC_ALT_CO2.201501-201912.nc
+9.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.tend_zint_100m_DIC_ALT_CO2.202001-202012.nc
+ 24M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.tend_zint_100m_Fe.201501-201912.nc
+9.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.tend_zint_100m_Fe.202001-202012.nc
+ 24M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.tend_zint_100m_NH4.201501-201912.nc
+9.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.tend_zint_100m_NH4.202001-202012.nc
+ 24M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.tend_zint_100m_NO3.201501-201912.nc
+9.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.tend_zint_100m_NO3.202001-202012.nc
+ 24M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.tend_zint_100m_O2.201501-201912.nc
+9.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.tend_zint_100m_O2.202001-202012.nc
+ 24M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.tend_zint_100m_PO4.201501-201912.nc
+9.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.tend_zint_100m_PO4.202001-202012.nc
+ 24M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.tend_zint_100m_SiO3.201501-201912.nc
+9.6M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.tend_zint_100m_SiO3.202001-202012.nc
+7.0M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.TFW_S.201501-201912.nc
+6.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.TFW_S.202001-202012.nc
+7.0M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.TFW_T.201501-201912.nc
+6.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.TFW_T.202001-202012.nc
+ 21M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.TMXL.201501-201912.nc
+9.0M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.TMXL.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.TMXL_DR.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.TMXL_DR.202001-202012.nc
+750M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.TRES.201501-201912.nc
+155M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.TRES.202001-202012.nc
+869M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.UE_DIC_ALT_CO2.201501-201912.nc
+179M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.UE_DIC_ALT_CO2.202001-202012.nc
+869M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.UE_PO4.201501-201912.nc
+179M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.UE_PO4.202001-202012.nc
+872M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.UES.201501-201912.nc
+180M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.UES.202001-202012.nc
+871M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.UET.201501-201912.nc
+179M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.UET.202001-202012.nc
+879M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.UPV.201501-201912.nc
+181M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.UPV.202001-202012.nc
+866M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.UVEL.201501-201912.nc
+179M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.UVEL.202001-202012.nc
+892M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.VN_DIC_ALT_CO2.201501-201912.nc
+184M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.VN_DIC_ALT_CO2.202001-202012.nc
+893M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.VN_PO4.201501-201912.nc
+184M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.VN_PO4.202001-202012.nc
+895M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.VNS.201501-201912.nc
+184M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.VNS.202001-202012.nc
+894M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.VNT.201501-201912.nc
+184M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.VNT.202001-202012.nc
+900M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.VPV.201501-201912.nc
+185M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.VPV.202001-202012.nc
+890M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.VVEL.201501-201912.nc
+183M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.VVEL.202001-202012.nc
+889M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.WT_DIC_ALT_CO2.201501-201912.nc
+183M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.WT_DIC_ALT_CO2.202001-202012.nc
+890M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.WT_PO4.201501-201912.nc
+183M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.WT_PO4.202001-202012.nc
+889M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.WTS.201501-201912.nc
+183M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.WTS.202001-202012.nc
+890M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.WTT.201501-201912.nc
+183M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.WTT.202001-202012.nc
+905M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.WVEL.201501-201912.nc
+186M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.WVEL.202001-202012.nc
+867M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.WVEL2.201501-201912.nc
+179M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.WVEL2.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.XBLT.201501-201912.nc
+9.2M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.XBLT.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.XMXL.201501-201912.nc
+9.2M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.XMXL.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.XMXL_DR.201501-201912.nc
+9.2M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.XMXL_DR.202001-202012.nc
+235M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.zooC.201501-201912.nc
+ 52M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.zooC.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.zoo_loss_doc_zint_100m.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.zoo_loss_doc_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.zoo_loss_doc_zint.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.zoo_loss_doc_zint.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.zoo_loss_poc_zint_100m.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.zoo_loss_poc_zint_100m.202001-202012.nc
+ 23M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.zoo_loss_poc_zint.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.zoo_loss_poc_zint.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.zoo_loss_zint_100m.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.zoo_loss_zint_100m.202001-202012.nc
+ 22M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.zoo_loss_zint.201501-201912.nc
+9.3M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.zoo_loss_zint.202001-202012.nc
+ 21M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.zsatarag.201501-201912.nc
+9.0M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.zsatarag.202001-202012.nc
+ 20M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.zsatcalc.201501-201912.nc
+8.7M b.e21.BSSP370smbb.f09_g17.assm*.projdv7.3_ba-20p1.pop.h.zsatcalc.202001-202012.nc

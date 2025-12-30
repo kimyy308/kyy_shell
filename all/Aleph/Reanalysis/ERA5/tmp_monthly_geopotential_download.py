@@ -2,8 +2,8 @@
 
 import cdsapi
 
-c = cdsapi.Client()
 
+c = cdsapi.Client()
 c.retrieve(
     'reanalysis-era5-pressure-levels-monthly-means',
     {
@@ -19,5 +19,6 @@ c.retrieve(
         'time': '00:00',
         'format': 'netcdf',
     },
-    '/mnt/lustre/proj/kimyy/Observation/ERA5/geopotential/raw_monthly/ERA5_geopotential_202312.nc')
+    '/mnt/lustre/proj/kimyy/Observation/ERA5/geopotential_p500/raw_monthly/ERA5_geopotential_p500_202312.nc')
+
 

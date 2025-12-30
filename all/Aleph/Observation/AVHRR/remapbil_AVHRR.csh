@@ -3,8 +3,10 @@
 # Updated  30-Jan-2023 by Yong-Yub Kim, e-mail: kimyy308@pusan.ac.kr
 
 
-set siy = 2021
-set eiy = 1982
+#set siy = 2021
+#set eiy = 1982
+set siy = 1994
+set eiy = 1994
 #aot1
 set IY_SET = ( `seq ${siy} -1 ${eiy}` ) 
 set M_SET = ( 01 02 03 04 05 06 07 08 09 10 11 12 )

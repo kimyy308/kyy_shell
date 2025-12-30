@@ -1,0 +1,79 @@
+#!/bin/csh
+####!/bin/csh -fx
+# Updated  19-Mar-2025 by Yong-Yub Kim, e-mail: kimyy308@pusan.ac.kr
+
+set homedir = /proj/kimyy/tmp
+
+
+#set var = TEMP
+set comp = ocn
+
+set REGION = NWP
+set xw = 133
+set xe = 205
+set ys = 221
+set yn = 325
+
+#set vars = ( TEMP SSH SALT DIC DIC_ALT_CO2 FG_CO2 )
+#set vars = ( UVEL VVEL WVEL )
+set vars = ( TAUX TAUY )
+
+foreach var ( ${vars} )
+mkdir ~/tmp_script
+mkdir ~/tmp_log
+
+set tmp_scr =  ~/tmp_script/fldcut_${var}_assm_tmp.csh
+set tmp_log =  ~/tmp_log/fldcut_${var}_assm_tmp.log
+
+cat > $tmp_scr << EOF
+
+#set OBS_SET = (en4.2_ba projdv7.3_ba)
+set OBS_SET = ("projdv7.3_ba")
+set FACTOR_SET = (20)
+set mbr_set = (1)
+set M_SET = ( 01 02 03 04 05 06 07 08 09 10 11 12 )
+set RESOLN = f09_g17
+set scens = (BHISTsmbb BSSP370smbb)
+
+set IY_SET = ( 2014 2020 )
+
+foreach iyloop ( \${IY_SET} )
+    if (\${iyloop} <= 2014) then
+      set scen = BHISTsmbb
+    else if (\${iyloop} >= 2015) then
+      set scen = BSSP370smbb
+    endif
+foreach OBS ( \${OBS_SET} )  # OBS loop
+foreach FACTOR ( \${FACTOR_SET} ) #FACTOR loop
+foreach mbr ( \${mbr_set} ) #mbr loop
+    set CASENAME_M = b.e21.\${scen}.\${RESOLN}.assm.\${OBS}-\${FACTOR}p\${mbr}  #mother CASENAME
+    set ARC_ROOT = /mnt/lustre/proj/earth.system.predictability/ATM_TEST/EXP_ATM_timeseries/archive/\${CASENAME_M}/${comp}/proc/tseries/month_1
+    set SAVE_ROOT = /mnt/lustre/proj/kimyy/tr_sysong/fld/ATM_TEST/EXP_ATM/archive/\${CASENAME_M}/${comp}
+    mkdir -p \${SAVE_ROOT}
+    set period_SET = ( \`ls \${ARC_ROOT}/*.${var}.* | cut -d '.' -f 19\` )
+    foreach period ( \${period_SET} )
+      set Y_1 = (\`echo \$period | cut -c 1-4\`)
+       if ( \${Y_1} <= \${iyloop} ) then # period decision
+          set inputname = \${ARC_ROOT}/\${CASENAME_M}.pop.h.${var}.\${period}.nc
+          set outputname = \${SAVE_ROOT}/${REGION}_\${CASENAME_M}.pop.h.${var}.\${period}.nc
+           cdo -O -w -selindexbox,${xw},${xe},${ys},${yn} \${inputname} \${outputname}
+          echo \${outputname}
+       endif # period decision
+    end            
+    echo ${var}"_postprocessing complete"
+
+end #mbr loop
+end #FACTOR loop
+end #OBS loop
+
+end
+
+rm -f /proj/kimyy/tmp/test_fld_${var}.nc
+
+EOF
+
+csh $tmp_scr > $tmp_log &
+
+end
+
+

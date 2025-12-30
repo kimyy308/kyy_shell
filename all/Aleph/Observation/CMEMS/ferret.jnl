@@ -1,0 +1,8 @@
+ ! NOAA/PMEL TMAP
+ ! FERRET v7.43 (optimized)
+ ! Linux 3.10.0-862.el7.x86_64 64-bit - 11/30/18
+ ! 10-Mar-25 21:48     
+
+use /mnt/lustre/proj/kimyy/Observation/CMEMS/sla/monthly_reg_pop/ocn_cesm2_grid.nc
+show data
+exit
