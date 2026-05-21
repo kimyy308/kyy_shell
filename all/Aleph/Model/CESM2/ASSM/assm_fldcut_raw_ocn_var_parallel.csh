@@ -17,7 +17,9 @@ set yn = 325
 #set vars = ( TEMP SSH SALT DIC DIC_ALT_CO2 FG_CO2 )
 #set vars = ( TEMP SSH SALT DIC DIC_ALT_CO2 FG_CO2 UVEL VVEL WVEL )
 #set vars = ( UVEL VVEL WVEL )
-set vars = ( TAUX TAUY )
+#set vars = ( TAUX TAUY )
+#set vars = ( NO3 PO4 AOU SiO3 O2 Fe )
+#set vars = ( AOU ) # not available
 
 foreach var ( ${vars} )
 mkdir ~/tmp_script
@@ -59,6 +61,7 @@ foreach mbr ( \${mbr_set} ) #mbr loop
     set SAVE_ROOT = /mnt/lustre/proj/kimyy/tr_sysong/fld/ASSM_EXP/archive/\${CASENAME_M}/ocn
     mkdir -p \${SAVE_ROOT}
     if ( \$iyloop == 2020 && \${OBS} == "projdv7.3_ba" ) then  #fixed decision
+#    if ( \$iyloop == 2222 && \${OBS} == "projdv7.3_ba" ) then
       set ARC_ROOT = /mnt/lustre/proj/earth.system.predictability/ASSM_EXP_fixed/archive/\${CASENAME_M}/ocn/hist
       foreach mloop ( \${M_SET} ) # month loop
         set inputname = \${ARC_ROOT}/\${CASENAME_M}.pop.h.\${iyloop}-\${mloop}.nc

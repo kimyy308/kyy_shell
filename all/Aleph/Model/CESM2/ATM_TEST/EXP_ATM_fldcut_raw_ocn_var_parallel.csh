@@ -16,14 +16,16 @@ set yn = 325
 
 #set vars = ( TEMP SSH SALT DIC DIC_ALT_CO2 FG_CO2 )
 #set vars = ( UVEL VVEL WVEL )
-set vars = ( TAUX TAUY )
+#set vars = ( TAUX TAUY )
+#set vars = ( NO3 PO4 SiO3 O2 Fe )
+set vars = ( TEMP SSH SALT DIC DIC_ALT_CO2 FG_CO2 UVEL VVEL WVEL TAUX TAUY NO3 PO4 SiO3 O2 Fe)
 
 foreach var ( ${vars} )
 mkdir ~/tmp_script
 mkdir ~/tmp_log
 
-set tmp_scr =  ~/tmp_script/fldcut_${var}_assm_tmp.csh
-set tmp_log =  ~/tmp_log/fldcut_${var}_assm_tmp.log
+set tmp_scr =  ~/tmp_script/fldcut_${var}_wda_tmp.csh
+set tmp_log =  ~/tmp_log/fldcut_${var}_wda_tmp.log
 
 cat > $tmp_scr << EOF
 
@@ -35,7 +37,8 @@ set M_SET = ( 01 02 03 04 05 06 07 08 09 10 11 12 )
 set RESOLN = f09_g17
 set scens = (BHISTsmbb BSSP370smbb)
 
-set IY_SET = ( 2014 2020 )
+#set IY_SET = ( 2014 2020 )
+set IY_SET = ( 2020 )
 
 foreach iyloop ( \${IY_SET} )
     if (\${iyloop} <= 2014) then
