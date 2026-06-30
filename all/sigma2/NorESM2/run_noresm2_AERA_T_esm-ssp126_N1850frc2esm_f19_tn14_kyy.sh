@@ -1,0 +1,1 @@
+/cluster/projects/nn2980k/yongyub/NORESM/NorESM2/run_script/run_noresm2_AERA_T_esm-ssp126_N1850frc2esm_f19_tn14_kyy.sh
